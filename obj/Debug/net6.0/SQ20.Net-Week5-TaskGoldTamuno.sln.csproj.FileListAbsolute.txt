@@ -1,0 +1,17 @@
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.exe
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.deps.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.runtimeconfig.json
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\bin\Debug\net6.0\ConsoleTables.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.csproj.AssemblyReference.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.AssemblyInfoInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.AssemblyInfo.cs
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.csproj.CoreCompileInputs.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.csproj.CopyComplete
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\refint\SQ20.Net-Week5-TaskGoldTamuno.sln.dll
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.pdb
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\SQ20.Net-Week5-TaskGoldTamuno.sln.genruntimeconfig.cache
+C:\Users\ZBOOK 14U G6\source\repos\sq20-net-week-5-task-GoldTamuno\ConsoleApp12\obj\Debug\net6.0\ref\SQ20.Net-Week5-TaskGoldTamuno.sln.dll
